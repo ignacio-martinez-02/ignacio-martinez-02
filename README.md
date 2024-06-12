@@ -12,7 +12,7 @@ Soy un desarrollador Junior que está dando sus primeros pasos en el mundo del d
 
 ## 🌐Mis principales Redes 
 
-- [![LinkedIn](https://www.linkedin.com/in/ignacio-gabriel-martinez-988a75275/)
+- [![LinkedIn](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]https://www.linkedin.com/in/ignacio-gabriel-martinez-988a75275/)
 - [![Instagram](https://www.instagram.com/naachomartinez_/)
 
 
