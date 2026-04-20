@@ -7,7 +7,6 @@ Soy un desarrollador Junior que está dando sus primeros pasos en el mundo del d
   - 📓 Futuro Ingeniero en Sistemas de Información.
   - 📝 Busco un aprendizaje para poder brindar el mejor servicio.
   - 👥 Estoy interesado en los proyectos de desarrollo colaborativo 
-  - 🎧 La música no puede faltar nunca al momendo de desarrollar para fomentar mi creatividad
 
 
 ## 🌐Mis principales Redes 
